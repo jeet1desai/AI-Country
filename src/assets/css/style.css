@@ -1,0 +1,15 @@
+.search{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-top: 50px;
+}
+
+.search .MuiOutlinedInput-root {
+	margin-bottom: 20px;
+}
+
+.MuiContainer-root{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
